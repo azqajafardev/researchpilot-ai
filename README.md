@@ -2,7 +2,8 @@
 
 <div align="center">
   <img src="./assets/logo.jpg" alt="Logo" width="200">
-  <h1 align="center">Auto-Deep-Research:</br> Your Fully-Automated and Cost-Effective Personal AI Assistant </h1>
+  <h1 align="center">researchpilot-ai:</br> Your Fully-Automated and Cost-Effective Personal AI Assistant </h1>
+  <p><sub>Display name: researchpilot-ai. Installation commands, repository URLs, original project history, community links, and citations below refer to upstream Auto-Deep-Research.</sub></p>
 </div>
 
 
@@ -13,7 +14,7 @@
   <a href="https://metachain-ai.github.io"><img src="https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&color=FFE165&logo=homepage&logoColor=white" alt="Credits"></a>
   <a href="https://join.slack.com/t/metachain-workspace/shared_invite/zt-2zibtmutw-v7xOJObBf9jE2w3x7nctFQ"><img src="https://img.shields.io/badge/Slack-Join%20Us-red?logo=slack&logoColor=white&style=for-the-badge" alt="Join our Slack community"></a>
   <a href="https://discord.gg/z68KRvwB"><img src="https://img.shields.io/badge/Discord-Join%20Us-purple?logo=discord&logoColor=white&style=for-the-badge" alt="Join our Discord community"></a>
-  <a href="./Communication.md"><img src="https://img.shields.io/badge/💬Feishu-Group-07c160?style=for-the-badge&logoColor=white&labelColor=1a1a2e"></a>
+  <a href="./Communication.md"><img src="https://img.shields.io/badge/ðŸ’¬Feishu-Group-07c160?style=for-the-badge&logoColor=white&labelColor=1a1a2e"></a>
   <a href="./Communication.md"><img src="https://img.shields.io/badge/WeChat-Group-07c160?style=for-the-badge&logo=wechat&logoColor=white&labelColor=1a1a2e"></a>
   <br/>
   <a href="https://metachain-ai.github.io/docs"><img src="https://img.shields.io/badge/Documentation-000?logo=googledocs&logoColor=FFE165&style=for-the-badge" alt="Check out the documentation"></a>
@@ -22,48 +23,48 @@
   <hr>
 </div>
 
-Welcome to Auto-Deep-Research! Auto-Deep-Research is a open-source and cost-efficient alternative to OpenAI's Deep Research, based on [AutoAgent](https://github.com/HKUDS/AutoAgent) framework.
+Welcome to researchpilot-ai! researchpilot-ai is an open-source and cost-efficient alternative to OpenAI's Deep Research, based on [AutoAgent](https://github.com/HKUDS/AutoAgent) framework.
 
-## ✨Key Features
+## âœ¨Key Features
 
-- 🚀 **High Performance**: Delivers good performance on GAIA Benchmark.
-- 🌐 **Universal LLM Support**: Seamlessly integrates with **A Wide Range** of LLMs (e.g., OpenAI, Anthropic, Deepseek, vLLM, Grok, Huggingface ...)
-- 🔀 **Flexible Interaction**: Supports both **function-calling** and **non-function-calling** interaction LLMs.
-- 💰 **Cost-Efficient**: Open-source alternative to Deep Research's $200/month subscription with your own pay-as-you-go LLM API keys.
-- 📁 **File Support**: Handles file uploads for enhanced data interaction
-- 🚀 **One-Click Launch**:  Get started instantly with a simple `auto deep-research` command - **Zero Configuration** needed, truly out-of-the-box experience.
-
-
-🚀 Own your own personal assistant with much lower cost. Try 🔥Auto-Deep-Research🔥 Now!
+- ðŸš€ **High Performance**: Delivers good performance on GAIA Benchmark.
+- ðŸŒ **Universal LLM Support**: Seamlessly integrates with **A Wide Range** of LLMs (e.g., OpenAI, Anthropic, Deepseek, vLLM, Grok, Huggingface ...)
+- ðŸ”€ **Flexible Interaction**: Supports both **function-calling** and **non-function-calling** interaction LLMs.
+- ðŸ’° **Cost-Efficient**: Open-source alternative to Deep Research's $200/month subscription with your own pay-as-you-go LLM API keys.
+- ðŸ“ **File Support**: Handles file uploads for enhanced data interaction
+- ðŸš€ **One-Click Launch**:  Get started instantly with a simple `auto deep-research` command - **Zero Configuration** needed, truly out-of-the-box experience.
 
 
-## 🔥 News
+ðŸš€ Own your own personal assistant with much lower cost. Try ðŸ”¥researchpilot-aiðŸ”¥ Now!
+
+
+## ðŸ”¥ News
 <div class="scrollable">
     <ul>      
-      <li><strong>[2025, April 1]</strong>: &nbsp;🎉🎉 Click to see what Auto-Deepresearch can do! <a href="https://x.com/huang_chao4969/status/1905620201225482264">[Video 1]</a> <a href="https://x.com/huang_chao4969/status/1891676951015981421">[Video 2]</a></li>
-      <li><strong>[2025, Feb 16]</strong>: &nbsp;🎉🎉We've cleaned up the codebase of <a href="https://github.com/HKUDS/AutoAgent">AutoAgent</a>, removed the irrelevant parts for Auto-Deep-Research and released the first version of Auto-Deep-Research.</li>
+      <li><strong>[2025, April 1]</strong>: &nbsp;ðŸŽ‰ðŸŽ‰ Click to see what Auto-Deepresearch can do! <a href="https://x.com/huang_chao4969/status/1905620201225482264">[Video 1]</a> <a href="https://x.com/huang_chao4969/status/1891676951015981421">[Video 2]</a></li>
+      <li><strong>[2025, Feb 16]</strong>: &nbsp;ðŸŽ‰ðŸŽ‰We've cleaned up the codebase of <a href="https://github.com/HKUDS/AutoAgent">AutoAgent</a>, removed the irrelevant parts for Auto-Deep-Research and released the first version of Auto-Deep-Research.</li>
     </ul>
 </div>
 <span id='table-of-contents'/>
 
-## 📑 Table of Contents
+## ðŸ“‘ Table of Contents
 
-* <a href='#features'>✨ Features</a>
-* <a href='#news'>🔥 News</a>
-* <a href='#why-to-release-auto-deep-research'>🧐 Why to release Auto-Deep-Research?</a>
-* <a href='#quick-start'>⚡ Quick Start</a>
+* <a href='#features'>âœ¨ Features</a>
+* <a href='#news'>ðŸ”¥ News</a>
+* <a href='#why-to-release-auto-deep-research'>ðŸ§ Why to release Auto-Deep-Research?</a>
+* <a href='#quick-start'>âš¡ Quick Start</a>
   * <a href='#installation'>Installation</a>
   * <a href='#api-keys-setup'>API Keys Setup</a>
   * <a href='#start-auto-deep-research'>Start Auto-Deep-Research</a>
-* <a href='#todo'>☑️ Todo List</a>
-* <a href='#documentation'>📖 Documentation</a>
-* <a href='#community'>🤝 Join the Community</a>
-* <a href='#acknowledgements'>🙏 Acknowledgements</a>
-* <a href='#cite'>🌟 Cite</a>
+* <a href='#todo'>â˜‘ï¸ Todo List</a>
+* <a href='#documentation'>ðŸ“– Documentation</a>
+* <a href='#community'>ðŸ¤ Join the Community</a>
+* <a href='#acknowledgements'>ðŸ™ Acknowledgements</a>
+* <a href='#cite'>ðŸŒŸ Cite</a>
 
 <span id='why-to-release-auto-deep-research'/>
 
-## 🧐 Why to release Auto-Deep-Research?
+## ðŸ§ Why to release Auto-Deep-Research?
 
 After releasing AutoAgent (previously known as MetaChain) for a week, we've observed three compelling reasons to introduce Auto-Deep-Research:
 
@@ -80,13 +81,13 @@ Auto-Deep-Research represents our commitment to both the community's needs and t
 
 <span id='quick-start'/>
 
-## ⚡ Quick Start
+## âš¡ Quick Start
 
 <span id='installation'/>
 
 ### Installation
 
-#### Auto-Deep-Research Installation
+#### Install researchpilot-ai from the original source
 
 ```bash
 conda create -n auto_deep_research python=3.10
@@ -98,7 +99,7 @@ pip install -e .
 
 #### Docker Installation
 
-We use Docker to containerize the agent-interactive environment. So please install [Docker](https://www.docker.com/) first. You don't need to manually pull the pre-built image, because we have let Auto-Deep-Research **automatically pull the pre-built image based on your architecture of your machine**.
+We use Docker to containerize the agent-interactive environment. So please install [Docker](https://www.docker.com/) first. You don't need to manually pull the pre-built image, because we have let researchpilot-ai **automatically pull the pre-built image based on your architecture of your machine**.
 
 <span id='api-keys-setup'/>
 
@@ -108,11 +109,11 @@ Create a environment variable file, just like `.env.template`, and set the API k
 
 <span id='start-auto-deep-research'/>
 
-### Start Auto-Deep-Research
+### Start researchpilot-ai
 
 #### Command Options:
 
-You can run `auto deep-research` to start Auto-Deep-Research. Some configuration of this command is shown below.
+You can run `auto deep-research` to start researchpilot-ai. Some configuration of this command is shown below.
 
 - `--container_name`: Name of the Docker container (default: 'deepresearch')
 - `--port`: Port for the container (default: 12346)
@@ -123,7 +124,7 @@ You can run `auto deep-research` to start Auto-Deep-Research. Some configuration
 
 #### Different LLM Providers
 
-We will show you how easy it is to start Auto-Deep-Research with different LLM providers.
+We will show you how easy it is to start researchpilot-ai with different LLM providers.
 
 ##### Anthropic
 
@@ -133,7 +134,7 @@ We will show you how easy it is to start Auto-Deep-Research with different LLM p
 ANTHROPIC_API_KEY=your_anthropic_api_key
 ```
 
-* run the following command to start Auto-Deep-Research.
+* run the following command to start researchpilot-ai.
 
 ```bash
 auto deep-research # default model is claude-3-5-sonnet-20241022
@@ -147,7 +148,7 @@ auto deep-research # default model is claude-3-5-sonnet-20241022
 OPENAI_API_KEY=your_openai_api_key
 ```
 
-* run the following command to start Auto-Deep-Research.
+* run the following command to start researchpilot-ai.
 
 ```bash
 COMPLETION_MODEL=gpt-4o auto deep-research
@@ -161,7 +162,7 @@ COMPLETION_MODEL=gpt-4o auto deep-research
 MISTRAL_API_KEY=your_mistral_api_key
 ```
 
-* run the following command to start Auto-Deep-Research.
+* run the following command to start researchpilot-ai.
 
 ```bash
 COMPLETION_MODEL=mistral/mistral-large-2407 auto deep-research
@@ -175,7 +176,7 @@ COMPLETION_MODEL=mistral/mistral-large-2407 auto deep-research
 GEMINI_API_KEY=your_gemini_api_key
 ```
 
-* run the following command to start Auto-Deep-Research.
+* run the following command to start researchpilot-ai.
 
 ```bash
 COMPLETION_MODEL=gemini/gemini-2.0-flash auto deep-research
@@ -189,7 +190,7 @@ COMPLETION_MODEL=gemini/gemini-2.0-flash auto deep-research
 HUGGINGFACE_API_KEY=your_huggingface_api_key
 ```
 
-* run the following command to start Auto-Deep-Research.
+* run the following command to start researchpilot-ai.
 
 ```bash
 COMPLETION_MODEL=huggingface/meta-llama/Llama-3.3-70B-Instruct auto deep-research
@@ -203,7 +204,7 @@ COMPLETION_MODEL=huggingface/meta-llama/Llama-3.3-70B-Instruct auto deep-researc
 GROQ_API_KEY=your_groq_api_key
 ```
 
-* run the following command to start Auto-Deep-Research.
+* run the following command to start researchpilot-ai.
 
 ```bash
 COMPLETION_MODEL=groq/deepseek-r1-distill-llama-70b auto deep-research
@@ -217,7 +218,7 @@ COMPLETION_MODEL=groq/deepseek-r1-distill-llama-70b auto deep-research
 OPENAI_API_KEY=your_api_key_for_openai_compatible_endpoints
 ```
 
-* run the following command to start Auto-Deep-Research.
+* run the following command to start researchpilot-ai.
 
 ```bash
 COMPLETION_MODEL=openai/grok-2-latest API_BASE_URL=https://api.x.ai/v1 auto deep-research
@@ -233,7 +234,7 @@ We recommend using OpenRouter as LLM provider of DeepSeek-R1 temporarily. Becaus
 OPENROUTER_API_KEY=your_openrouter_api_key
 ```
 
-* run the following command to start Auto-Deep-Research.
+* run the following command to start researchpilot-ai.
 
 ```bash
 COMPLETION_MODEL=openrouter/deepseek/deepseek-r1 auto deep-research
@@ -247,7 +248,7 @@ COMPLETION_MODEL=openrouter/deepseek/deepseek-r1 auto deep-research
 DEEPSEEK_API_KEY=your_deepseek_api_key
 ```
 
-* run the following command to start Auto-Deep-Research.
+* run the following command to start researchpilot-ai.
 
 ```bash
 COMPLETION_MODEL=deepseek/deepseek-chat auto deep-research
@@ -259,26 +260,26 @@ COMPLETION_MODEL=deepseek/deepseek-chat auto deep-research
 
 You can import the browser cookies to the browser environment to let the agent better access some specific websites. For more details, please refer to the [cookies](./metachain/environment/cookie_json/README.md) folder.
 
-More features coming soon! 🚀 **Web GUI interface** under development.
+More features coming soon! ðŸš€ **Web GUI interface** under development.
 
 
-## ☑️ Todo List
+## â˜‘ï¸ Todo List
 
-Auto-Deep-Research is continuously evolving! Here's what's coming:
+researchpilot-ai is continuously evolving! Here's what's coming:
 
-- 🖥️ **GUI Agent**: Supporting *Computer-Use* agents with GUI interaction
-- 🏗️ **Code Sandboxes**: Supporting additional environments like **E2B**
-- 🎨 **Web Interface**: Developing comprehensive GUI for better user experience
+- ðŸ–¥ï¸ **GUI Agent**: Supporting *Computer-Use* agents with GUI interaction
+- ðŸ—ï¸ **Code Sandboxes**: Supporting additional environments like **E2B**
+- ðŸŽ¨ **Web Interface**: Developing comprehensive GUI for better user experience
 
-Have ideas or suggestions? Feel free to open an issue! Stay tuned for more exciting updates! 🚀
+Have ideas or suggestions? Feel free to open an issue! Stay tuned for more exciting updates! ðŸš€
 
-## 📖 Documentation
+## ðŸ“– Documentation
 
-A more detailed documentation is coming soon 🚀, and we will update in the [Documentation](https://metachain-ai.github.io/docs) page.
+A more detailed documentation is coming soon ðŸš€, and we will update in the [Documentation](https://metachain-ai.github.io/docs) page.
 
 <span id='community'/>
 
-## 🤝 Join the Community
+## ðŸ¤ Join the Community
 
 If you think the Auto-Deep-Research is helpful, you can join our community by:
 
@@ -289,13 +290,13 @@ If you think the Auto-Deep-Research is helpful, you can join our community by:
 
 <span id='acknowledgements'/>
 
-## 🙏 Acknowledgements
+## ðŸ™ Acknowledgements
 
 Rome wasn't built in a day. Auto-Deep-Research is built on the [AutoAgent](https://github.com/HKUDS/AutoAgent) framework. We extend our sincere gratitude to all the pioneering works that have shaped AutoAgent, including OpenAI Swarm for framework architecture inspiration, Magentic-one for the three-agent design insights, OpenHands for documentation structure, and many other excellent projects that contributed to agent-environment interaction design. Your innovations have been instrumental in making both AutoAgent and Auto-Deep-Research possible.
 
 <span id='cite'/>
 
-## 🌟 Cite
+## ðŸŒŸ Cite
 
 ```tex
 @misc{AutoAgent,
@@ -308,7 +309,6 @@ Rome wasn't built in a day. Auto-Deep-Research is built on the [AutoAgent](https
       url={https://arxiv.org/abs/2502.05957},
 }
 ```
-
 
 
 
